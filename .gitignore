@@ -1,0 +1,25 @@
+# Generated logs
+logs/
+*.log
+
+# Temporary files and directories
+tmp/
+temp/
+tmp_demo/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Bash history
+*.bash_history
+
+# Generated release archives
+SmartDownloadsOrganizer-*.zip
